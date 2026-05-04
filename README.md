@@ -1,2 +1,2 @@
-# Adversial-Search-Algo-Implementation
-Adversial search algorithm is being implemented through python A.K.A. google collaboratory
+# Tic-Tac-Toe-Game
+The game was implemented through an adversarial search algorithm, which is being implemented through Python, A.K.A. Google Colab
